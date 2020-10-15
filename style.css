@@ -537,7 +537,7 @@ nav {
 }
 @media(max-width:900px){
     .toggle {
-        dispaly: block;
+    dispaly: block;
     }
     .toggle:before {
         content:'\f0c9';
