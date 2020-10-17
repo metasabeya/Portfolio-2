@@ -19,8 +19,10 @@ Skills
 ![Screenshot (290)](https://user-images.githubusercontent.com/65740871/96352978-33c25280-1085-11eb-8342-b35fc5a3bef5.png)
 
 Portfolio
-![Screenshot (150)](https://user-images.githubusercontent.com/65740871/90347445-c09d5100-dfed-11ea-8cfa-34222a3d9576.png)
-Contact
+![Screenshot (290)](https://user-images.githubusercontent.com/65740871/96352978-33c25280-1085-11eb-8342-b35fc5a3bef5.png)
+![Screenshot (294)](https://user-images.githubusercontent.com/65740871/96353059-e1356600-1085-11eb-8a86-ca77866a474a.png)
+![Screenshot (296)](https://user-images.githubusercontent.com/65740871/96353064-f01c1880-1085-11eb-9a18-23d6050a9a2a.png)
+![Screenshot (297)](https://user-images.githubusercontent.com/65740871/96353070-fdd19e00-1085-11eb-9154-f73088657a4d.png)
 ![Screenshot (149)](https://user-images.githubusercontent.com/65740871/90347444-c09d5100-dfed-11ea-87ed-db3961624433.png)
 
 Language to create this portfolio :
