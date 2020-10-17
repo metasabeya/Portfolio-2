@@ -16,7 +16,8 @@ Home
 About
 ![Screenshot (152)](https://user-images.githubusercontent.com/65740871/90347439-bed38d80-dfed-11ea-8f7c-42a23cc683d7.png)
 Skills
-![Screenshot (151)](https://user-images.githubusercontent.com/65740871/90347446-c135e780-dfed-11ea-9f40-412935c74393.png)
+![Screenshot (290)](https://user-images.githubusercontent.com/65740871/96352978-33c25280-1085-11eb-8342-b35fc5a3bef5.png)
+
 Portfolio
 ![Screenshot (150)](https://user-images.githubusercontent.com/65740871/90347445-c09d5100-dfed-11ea-8cfa-34222a3d9576.png)
 Contact
